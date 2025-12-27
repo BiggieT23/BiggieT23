@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BiggieT23
+- 👋 Hi there, I’m Biggie T
 - 👀 I’m interested in NLP, data sci, maths and quantitative analysis 
 - 🌱 I’m currently learning in Quant and data science
-- 😄 Pronouns: ...
 - ⚡ Fun fact: left-foot & right-handed
 
 <!---
